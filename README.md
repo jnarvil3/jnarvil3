@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Jasper Narvil.
-- 📫 How to reach me: https://www.linkedin.com/in/jaspernarvil/ or jaspernarvil@gmail.com
+- 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/jaspernarvil/
+  - Email: jaspernarvil@gmail.com
