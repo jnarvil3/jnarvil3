@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jasper Narvil.
-- 💻 Currently working on Zoic - a middleware caching library for Deno
+- 💻 Co-founder of Zoic - a middleware caching library for Deno
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/jaspernarvil/
   - Email: jaspernarvil@gmail.com
